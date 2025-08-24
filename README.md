@@ -1,2 +1,6 @@
 # DISASTER_TWEET_CLASSIFICATION
 Developed a Natural Language Processing pipeline to classify disaster-related tweets using Python. Preprocessed 7,600+ tweets by removing hashtags, punctuation, and stopwords, followed by tokenization and text normalization. Implemented data cleaning techniques using pandas, numpy, and NLTK for text preprocessing. Built a binary classification model to identify real disaster tweets from social media noise, preparing the dataset for machine learning algorithms to enhance emergency response systems.
+
+
+Thanks
+Vishnu
